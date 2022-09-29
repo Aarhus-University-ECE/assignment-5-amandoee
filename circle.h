@@ -10,7 +10,6 @@ typedef struct circle {
   int r;
 } circle;
 
-
 /*add your definition of circle here. You need to call it "circle"*/
 
 
